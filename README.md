@@ -5,7 +5,7 @@ A Jupyter notebook demonstrating how to efficiently load and analyze pre-compute
 ## Usage
 ```bash
 cd ~
-git https://github.com/f10409/Load-Vector-Embeddings-for-Datathon25.git
+git clone https://github.com/f10409/Load-Vector-Embeddings-for-Datathon25.git
 ```
 
 
