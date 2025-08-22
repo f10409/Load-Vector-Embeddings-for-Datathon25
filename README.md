@@ -1,5 +1,5 @@
 # Loading Pre-extracted Vector Embeddings into Pandas DataFrames
-HITILab Datathon25, 08/22/2025
+*HITILab Datathon25, 08/22/2025* <br>
 A Jupyter notebook demonstrating how to efficiently load and analyze pre-computed vector embeddings from medical imaging datasets.
 
 ## Usage
